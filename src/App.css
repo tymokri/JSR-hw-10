@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  padding: 50px;
+}
+
+.form-table {
+  margin-top: 30px;
+}
+
+.hidden {
+  display: none;
+}
